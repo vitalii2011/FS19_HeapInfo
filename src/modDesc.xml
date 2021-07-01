@@ -86,7 +86,7 @@ Changelog ${version}:
 			<fr>Ce tas est trop grand, il n'a peut-être pas été totalement scanné</fr>
 			<it>Questo mucchio è troppo grande, potrebbe non essere stato completamente scansionato</it>
 			<pl>Ten kopiec jest zbyt duży, może nie zostać całkowicie zeskanowany</pl>
-			<ru>Эта куча слишком велика, она не может быть полностью отсканирована</ru>
+			<ru>Эта куча слишком велика, возможно, она не полностью отсканирована</ru>
 		</text>
 	</l10n>
 </modDesc>
